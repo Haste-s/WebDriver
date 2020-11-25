@@ -1,0 +1,13 @@
+*.db
+*.log
+target/
+bin/
+/WebDriver/packages/
+.vs/
+/WebDriver/WebDriverLab/obj
+/WebDriver/WebDriverLab/bin
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
